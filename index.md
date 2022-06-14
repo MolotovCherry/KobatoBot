@@ -1,6 +1,8 @@
 ## Welcome to KobatoBot
 
-<img src="https://cherryleafroad.github.io/KobatoBot/assets/kobato.jpg" width="400" height="400">
+<p align="center">
+  <img src="https://cherryleafroad.github.io/KobatoBot/assets/kobato.jpg" width="400" height="400">
+</p>
 
 I will manage your anime updates for you, so you don't have to!
 
