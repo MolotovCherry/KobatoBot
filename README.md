@@ -1,3 +1,7 @@
+Welcome to KobatoBot!
+
+I will send you anime updates on your currently watching list from MAL.
+
 # FAQ
 
 ### How do I contact you?
