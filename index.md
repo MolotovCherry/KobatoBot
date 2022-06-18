@@ -26,6 +26,10 @@ Hey Oniichan! I will manage your anime updates for you, so you don't have to!
         <td>/unregister</td>
         <td>Unregister and no longer receive notifications</td>
     </tr>
+    <tr>
+        <td>/website</td>
+        <td>Visit the website (this one here)</td>
+    </tr>
 </table>
 
 ## Contact
