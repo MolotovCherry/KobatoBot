@@ -23,13 +23,18 @@ Hey Oniichan! I will manage your anime updates for you, so you don't have to!
         <td>Cancel the registration dialog</td>
     </tr>
     <tr>
-        <td>/unregister</td>
-        <td>Unregister and no longer receive notifications</td>
-    </tr>
-    <tr>
         <td>/website</td>
         <td>Visit the website (this one here)</td>
     </tr>
+    <tr>
+        <td>/contact</td>
+        <td>Send my creator's profile and contact info.</td>
+    </tr>
+    <tr>
+        <td>/unregister</td>
+        <td>Unregister and no longer receive notifications</td>
+    </tr>
+
 </table>
 
 ## Contact
