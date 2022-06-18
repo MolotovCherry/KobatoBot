@@ -1,10 +1,12 @@
 # Welcome to KobatoBot!
 
-<a href="tg://resolve?domain=KobatoBot"><img src="https://img.shields.io/badge/KobatoBot-Message%20Me-blue?logo=telegram"/></a>
-
 <img src="https://cherryleafroad.github.io/KobatoBot/assets/kobato.jpg" width="400" height="400">
 
 I will send you anime updates on your currently watching list from MAL.
+
+[![Site](https://img.shields.io/badge/Visit%20Website-blue?logo=chatbot)](https://cherryleafroad.github.io/KobatoBot/) ![KobatoBot](https://img.shields.io/badge/KobatoBot-Message%20Me-blue?logo=telegram)  
+(Copy and paste URL)  
+`tg://resolve?domain=KobatoBot`
 
 # FAQ
 
@@ -15,4 +17,4 @@ Check my GitHub profile for ways on contacting me, or make an issue on this repo
 Sorry, the source code is private.
 
 ### How do I get an invite code to use it?
-Contact me. Invites are hard to come by though.
+Contact me. Invites may be hard to come by though.
