@@ -1,5 +1,7 @@
 # Welcome to KobatoBot!
 
+[![KobatoBot](https://img.shields.io/badge/KobatoBot-Message%20Me-blue?logo=telegram)](tg://resolve?domain=KobatoBot)
+
 <img src="https://cherryleafroad.github.io/KobatoBot/assets/kobato.jpg" width="400" height="400">
 
 I will send you anime updates on your currently watching list from MAL.
