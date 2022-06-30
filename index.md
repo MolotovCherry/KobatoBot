@@ -23,6 +23,22 @@ Hey Oniichan! I will manage your anime updates for you, so you don't have to!
         <td>Cancel the registration dialog</td>
     </tr>
     <tr>
+        <td>/upcoming</td>
+        <td>List the airtimes of the upcoming episodes on your watchlist</td>
+    </tr>
+    <tr>
+        <td>/settimezone</td>
+        <td>Set the timezone used for listing upcoming episodes</td>
+    </tr>
+    <tr>
+        <td>/notifyanime</td>
+        <td>Notify about new aired anime episodes [yes, no]</td>
+    </tr>
+    <tr>
+        <td>/notifymanga</td>
+        <td>Notify about newly published manga chapters [yes, no]</td>
+    </tr>
+    <tr>
         <td>/website</td>
         <td>Visit the website (this one here)</td>
     </tr>
