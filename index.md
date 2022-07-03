@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cherryleafroad.github.io/KobatoBot/assets/kobato.jpg" width="400" height="400">
+  <img src="https://molotovcherry.github.io/KobatoBot/assets/kobato.jpg" width="400" height="400">
 </p>
 
 Hey Oniichan! I will manage your anime updates for you, so you don't have to!
@@ -54,4 +54,4 @@ Hey Oniichan! I will manage your anime updates for you, so you don't have to!
 </table>
 
 ## Contact
-For any more information, please make an issue [here](https://github.com/cherryleafroad/KobatoBot) or visit my profile and contact me via Discord
+For any more information, please make an issue [here](https://github.com/MolotovCherry/KobatoBot) or visit my profile and contact me via Discord
