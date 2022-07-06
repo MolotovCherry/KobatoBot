@@ -4,9 +4,7 @@
 
 I will send you anime updates on your currently watching list from MAL.
 
-[![Site](https://img.shields.io/badge/Visit%20Website-blue?logo=chatbot)](https://molotovcherry.github.io/KobatoBot/) ![KobatoBot](https://img.shields.io/badge/KobatoBot-Message%20Me-blue?logo=telegram)  
-(Copy and paste URL)  
-`tg://resolve?domain=KobatoBot`
+[![Site](https://img.shields.io/badge/Visit%20Website-blue?logo=chatbot)](https://molotovcherry.github.io/KobatoBot/) [![KobatoBot](https://img.shields.io/badge/KobatoBot-Message%20Me-blue?logo=telegram)](https://t.me/KobatoBot)
 
 # FAQ
 
